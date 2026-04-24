@@ -63,11 +63,11 @@ The HC-05 Bluetooth module receives data from a mobile device and sends it to th
 
 ## 📸 Project Images
 
-![](images\Front_view.jpg "This is front view image.")
-![](images\Back_view.jpg "This is back view image.")
+![](images/Front_view.jpg "This is front view image.")
+![](images/Back_view.jpg "This is back view image.")
 
 ### 🔌Circuit Diagram
-![](images\Circuit.PNG "This is Circuit diagram image.")
+![](images/Circuit.PNG "This is Circuit diagram image.")
 
 ## 📚 Applications
 * Digital notice boards
