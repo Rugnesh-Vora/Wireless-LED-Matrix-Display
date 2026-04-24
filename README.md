@@ -3,7 +3,12 @@
 
 This project is a wireless scrolling LED matrix display (6×24) built using an Arduino Uno. The system allows real-time text display on an LED matrix via a mobile device using Bluetooth communication._
 
-_It demonstrates embedded systems concepts such as shift registers, multiplexing, and wireless data transmission.
+It demonstrates embedded systems concepts such as shift registers, multiplexing, and wireless data transmission.
+
+## 📸 Project Images
+
+![](images/Front_view.jpg "This is front view image.")
+![](images/Back_view.jpg "This is back view image.")
 
 ## 🚀 Features
 * 📶 Wireless text transmission using Bluetooth (HC-05)
@@ -61,12 +66,7 @@ The HC-05 Bluetooth module receives data from a mobile device and sends it to th
 4. Send text via a Bluetooth terminal app
 5. Watch the text scroll on the LED matrix
 
-## 📸 Project Images
-
-![](images/Front_view.jpg "This is front view image.")
-![](images/Back_view.jpg "This is back view image.")
-
-### 🔌Circuit Diagram
+## 🔌Circuit Diagram
 ![](images/Circuit.PNG "This is Circuit diagram image.")
 
 ## 📚 Applications
